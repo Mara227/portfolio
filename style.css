@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+    background-color: #7b49f8;
+    color: #333;
+    padding: 1rem;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    background-color: #0088cc;
+    padding: 1rem;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
